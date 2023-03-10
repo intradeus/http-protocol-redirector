@@ -2,7 +2,7 @@
 [![pages-build-deployment](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/intradeus/http-protocol-redirector/actions/workflows/pages/pages-build-deployment)
 
 ```
-                                                            https://intradeus.github.io/http-protocol-redirector?r=
+                                  https://intradeus.github.io/http-protocol-redirector?r=
 ```
 ## Why 
 Ever wanted to  
